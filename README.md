@@ -1,4 +1,4 @@
-# వ్భారతి (vBharati) - Telugu Literary Magazine
+# విజ్ఞాన భారతి (vBharati) - Telugu Literary Magazine
 
 A digital Telugu literary magazine website featuring articles organized by issue, author pages, and a clean editorial design optimized for Telugu typography.
 
@@ -97,7 +97,7 @@ Copy an existing article (e.g., `articles/telugu-sahityam.html`) and modify:
 
 ```html
 <!-- Update in <head> -->
-<title>[Article Title in Telugu] | వ్భారతి</title>
+<title>[Article Title in Telugu] | విజ్ఞాన భారతి</title>
 
 <!-- Update article header -->
 <div class="article-meta">
@@ -215,7 +215,7 @@ Create a new file in `authors/` directory.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Author Name Telugu] | వ్భారతి</title>
+    <title>[Author Name Telugu] | విజ్ఞాన భారతి</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+Telugu:wght@400;500;600;700&family=Noto+Serif+Telugu:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -225,7 +225,7 @@ Create a new file in `authors/` directory.
     <header class="header">
         <div class="container">
             <nav class="nav">
-                <a href="/" class="logo">వ్భారతి</a>
+                <a href="/" class="logo">విజ్ఞాన భారతి</a>
                 <div class="nav-links">
                     <a href="/" class="nav-link">వ్యాసాలు</a>
                     <a href="/about.html" class="nav-link">మా గురించి</a>
