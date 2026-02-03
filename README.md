@@ -68,12 +68,69 @@ vbharati/
 
 ### Article Types (Tags)
 Use these standard tags for consistency:
+
+**Science Fields:**
+- `భౌతికి` - Physics
+- `జీవ` - Biology
+- `వృక్ష` - Botany
+- `జంతు` - Zoology
+- `రసాయనం` - Chemistry
+- `గణితం` - Mathematics
+- `భూ` - Geography
+- `భూగర్భ` - Geology
+- `పర్యావరణ` - Environment
+- `ఖగోళ` - Astronomy
+
+**Engineering & Technology:**
+- `గని` - Mining
+- `వ్యవసాయ` - Agriculture
+- `లోహ` - Metallurgy
+- `నిర్మాణ` - Construction
+- `యంత్ర` - Mechanical
+- `రసాయన` - Chemical Engineering
+- `విద్యుత్` - Electrical
+- `కలనం` - Computing
+
+**Medicine & Health:**
+- `వైద్యం` - Medicine
+- `కణ కాండ` - Cell Biology
+- `జన్యు కాండ` - Genetics
+- `సంతాన` - Reproduction
+- `రక్త` - Blood
+- `గుండె` - Cardiology
+- `ఊపిరి` - Respiratory
+- `ఉదర` - Digestive
+- `మేధ` - Neurology
+- `కండ` - Musculoskeletal
+- `శక్తి` - Energy/Metabolism
+- `ముత్రాంగ` - Urinary
+- `చర్మ` - Dermatology
+- `ప్రవాహ` - Circulatory
+- `రోగ` - Disease
+- `అపస్మారక` - Psychiatry
+- `ఔషధ` - Pharmacy
+- `ఆరోగ్య` - Health
+
+**Traditional Crafts & Skills:**
+- `కుమ్మరి` - Potter
+- `కమ్మరి` - Blacksmith
+- `కంసాలి` - Goldsmith
+- `మేదరి` - Carpenter
+- `జాలరి` - Fisherman
+- `నేత` - Weaving
+- `ఈడిగ` - Cobbler
+- `వడ్రంగి` - Carpenter
+- `నావిక` - Sailor
+- `చాకలి` - Washerman
+- `దొమ్మరి` - Mason
+- `మేస్త్రీ` - Craftsman
+- `శిల్పి` - Sculptor
+- `తోట మాలి` - Gardener
+- `పుష్పలావిక` - Florist
+
+**General:**
 - `దీర్ఘ వ్యాసం` - Long Read
 - `అన్వేషణ` - Exploration/Investigation
-- `విమర్శ` - Criticism/Review
-- `సంస్కృతి` - Culture
-- `చరిత్ర` - History
-- `పుస్తక పరిచయం` - Book Review
 - `సంపాదకీయం` - Editorial
 - `ప్రత్యేకం` - Special Feature
 
