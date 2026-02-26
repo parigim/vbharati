@@ -26,7 +26,7 @@ vbharati/
 ├── about.html              # About page
 ├── search.html             # Search/browse page
 ├── styles.css              # All CSS styles
-├── articles/               # Article pages
+├── rachanalu/               # Article pages
 │   ├── telugu-sahityam.html
 │   ├── bhasha-technology.html
 │   └── kavita-vishleshanam.html
@@ -44,7 +44,7 @@ vbharati/
 |------|---------|
 | `index.html` | Homepage - contains hero section, subscribe banner, and all article cards |
 | `styles.css` | All styling - edit this to change colors, fonts, spacing |
-| `articles/*.html` | Individual article pages with full content |
+| `rachanalu/*.html` | Individual article pages with full content |
 | `authors/*.html` | Author profile pages listing their articles |
 
 ---
@@ -142,15 +142,15 @@ Use these standard tags for consistency:
 
 #### Step 1: Create the article file
 
-Create a new HTML file in the `articles/` directory. Use a URL-friendly filename in English (lowercase, hyphens instead of spaces).
+Create a new HTML file in the `rachanalu/` directory. Use a URL-friendly filename in English (lowercase, hyphens instead of spaces).
 
-**Filename format:** `articles/[topic-in-english].html`
+**Filename format:** `rachanalu/[topic-in-english].html`
 
-**Example:** `articles/new-poetry-trends.html`
+**Example:** `rachanalu/new-poetry-trends.html`
 
 #### Step 2: Copy the article template
 
-Copy an existing article (e.g., `articles/telugu-sahityam.html`) and modify:
+Copy an existing article (e.g., `rachanalu/telugu-sahityam.html`) and modify:
 
 ```html
 <!-- Update in <head> -->
@@ -200,7 +200,7 @@ Open `index.html` and add an article card in the `<div class="articles-grid">` s
 
 ```html
 <article class="article-card">
-    <a href="articles/[filename].html" class="article-link">
+    <a href="rachanalu/[filename].html" class="article-link">
         <div class="article-tags">
             <span class="tag-pill">[Article Type]</span>
             <span class="tag-pill">సంచిక [Issue Number]</span>
@@ -235,7 +235,7 @@ Issues are represented by the `సంచిక [Number]` tag on articles. To cre
    <section class="hero-featured">
        <div class="hero-content">
            <h1 class="hero-title">
-               <a href="articles/[new-featured-article].html">[New Featured Title]</a>
+               <a href="rachanalu/[new-featured-article].html">[New Featured Title]</a>
            </h1>
            ...
        </div>
@@ -333,7 +333,7 @@ Update any articles by this author to link to their page:
 ### Editing Existing Content
 
 #### To edit an article's content:
-1. Open `articles/[article-name].html`
+1. Open `rachanalu/[article-name].html`
 2. Edit the text within `<div class="article-content">`
 3. If changing the title, also update it in:
    - The `<title>` tag
@@ -406,7 +406,7 @@ Potential improvements for later:
 ## Conventions & Standards
 
 ### File Naming
-- **Articles:** `articles/[english-topic-slug].html` (lowercase, hyphens)
+- **Articles:** `rachanalu/[english-topic-slug].html` (lowercase, hyphens)
 - **Authors:** `authors/[firstname-lastname].html` (transliterated, lowercase, hyphens)
 - **Images:** `images/[article-slug]-[description].jpg`
 
@@ -430,7 +430,7 @@ Potential improvements for later:
 
 Before publishing a new article, verify:
 
-- [ ] Article file created in `articles/` with correct filename
+- [ ] Article file created in `rachanalu/` with correct filename
 - [ ] Title updated in `<title>` and `<h1>`
 - [ ] Correct issue number in tag pill
 - [ ] Author name links to correct author page
