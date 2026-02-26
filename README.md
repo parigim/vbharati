@@ -162,7 +162,7 @@ Copy an existing article (e.g., `rachanalu/telugu-sahityam.html`) and modify:
     <span class="tag-pill">సంచిక [Issue Number]</span>
 </div>
 <h1 class="article-page-title">[Article Title in Telugu]</h1>
-<p class="article-byline">Words by <a href="/authors/[author-slug].html">[Author Name]</a></p>
+<p class="article-byline"><a href="/authors/[author-slug].html">[Author Name]</a></p>
 <p class="article-date">[Month] [Day], [Year]</p>
 
 <!-- Update hero placeholder text -->
@@ -206,7 +206,7 @@ Open `index.html` and add an article card in the `<div class="articles-grid">` s
             <span class="tag-pill">సంచిక [Issue Number]</span>
         </div>
         <h2 class="article-title">[Article Title]</h2>
-        <p class="article-author">Words by <a href="/authors/[author-slug].html">[Author Name]</a></p>
+        <p class="article-author"><a href="/authors/[author-slug].html">[Author Name]</a></p>
         <p class="article-excerpt">
             [First 2-3 sentences of the article as preview...]
         </p>
@@ -325,7 +325,7 @@ Create a new file in `authors/` directory.
 
 Update any articles by this author to link to their page:
 ```html
-<p class="article-byline">Words by <a href="/authors/[author-slug].html">[Author Name]</a></p>
+<p class="article-byline"><a href="/authors/[author-slug].html">[Author Name]</a></p>
 ```
 
 ---
