@@ -446,6 +446,6 @@ Before publishing a new article, verify:
 
 ## Support
 
-For questions about content management, contact the editorial team at contact@vbharati.com.
+For questions about content management, contact the editorial team at teluguvbharati@gmail.com.
 
 For technical issues, open an issue in the repository.
