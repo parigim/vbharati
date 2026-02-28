@@ -293,7 +293,6 @@ body {
     position: relative;
     background-color: var(--color-card-bg);
     padding-left: var(--spacing-md);
-    border-left: 3px solid var(--color-accent);
 }
 
 .article-card::before {
