@@ -589,7 +589,6 @@ body {
 }
 
 .article-content blockquote {
-    border-left: 3px solid var(--color-accent);
     padding-left: var(--spacing-md);
     margin: var(--spacing-xl) 0;
     font-style: italic;
@@ -649,7 +648,6 @@ body {
     border-radius: 6px;
     text-decoration: none;
     color: var(--color-text);
-    border-left: 3px solid var(--color-accent);
     transition: background-color 0.2s ease;
 }
 
@@ -828,7 +826,6 @@ body {
     text-decoration: none;
     text-align: center;
     transition: all 0.2s ease;
-    border-left: 3px solid var(--color-accent);
 }
 
 .issue-card:hover {
